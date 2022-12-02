@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<VBox xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="homelet.mccanny.minesweeper.controller.MinesweeperController">
+   <children>
+      <MenuBar>
+        <menus>
+          <Menu mnemonicParsing="false" text="Game">
+            <items>
+              <MenuItem fx:id="menuNewGame" mnemonicParsing="false" text="New Game" />
+                  <MenuItem fx:id="menuSaveGame" mnemonicParsing="false" text="Save Game" />
+                  <MenuItem fx:id="menuLoadGame" mnemonicParsing="false" text="Load Game" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem fx:id="menuPause" mnemonicParsing="false" text="Pause" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Hardness">
+            <items>
+                  <RadioMenuItem fx:id="menuHardnessEasy" mnemonicParsing="false" text="Easy">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="hardnessSelector" />
+                     </toggleGroup></RadioMenuItem>
+                  <RadioMenuItem fx:id="menuHardnessMedium" mnemonicParsing="false" text="Medium" toggleGroup="$hardnessSelector" />
+                  <RadioMenuItem fx:id="menuHardnessHard" mnemonicParsing="false" text="Hard" toggleGroup="$hardnessSelector" />
+                  <RadioMenuItem fx:id="menuHardnessCustom" mnemonicParsing="false" text="Custom ..." toggleGroup="$hardnessSelector" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Leaderboard">
+               <items>
+                  <MenuItem fx:id="menuLeaderboard" mnemonicParsing="false" text="Show Leaderboard" />
+               </items></Menu>
+        </menus>
+      </MenuBar>
+      <VBox style="-fx-background-color: c0c0c0;">
+         <children>
+            <BorderPane prefHeight="70.0" style="-fx-border-color: darkgray white white darkgray; -fx-border-width: 2;" VBox.vgrow="NEVER">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+               <left>
+                  <Label fx:id="remainingMines" accessibleHelp="Remaining mines" accessibleText="Remaining mines" alignment="CENTER_RIGHT" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minWidth="60.0" style="-fx-background-color: black;" text="000" textAlignment="RIGHT" textFill="RED" BorderPane.alignment="CENTER">
+                     <BorderPane.margin>
+                        <Insets />
+                     </BorderPane.margin>
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                  </Label>
+               </left>
+               <right>
+                  <Label fx:id="timeElapsed" accessibleHelp="time elapsed" accessibleText="time elapsed" alignment="CENTER_RIGHT" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minWidth="60.0" style="-fx-background-color: black;" text="999" textAlignment="RIGHT" textFill="RED" BorderPane.alignment="CENTER">
+                     <font>
+                        <Font size="30.0" />
+                     </font>
+                  </Label>
+               </right>
+               <center>
+                  <Button fx:id="gameButton" contentDisplay="GRAPHIC_ONLY" graphicTextGap="0.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" text="GameButton" BorderPane.alignment="CENTER">
+                     <BorderPane.margin>
+                        <Insets left="10.0" right="10.0" />
+                     </BorderPane.margin>
+                  </Button>
+               </center>
+            </BorderPane>
+            <StackPane style="-fx-border-color: darkgray white white darkgray; -fx-border-width: 2;">
+               <children>
+                  <Label fx:id="pausingLabel" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="Click to resume" textFill="RED" wrapText="true" StackPane.alignment="CENTER">
+                     <font>
+                        <Font size="40.0" />
+                     </font>
+                  </Label>
+                  <GridPane fx:id="gameBoard" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="459.0" prefWidth="450.0">
+                    <columnConstraints>
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <cursor>
+                        <Cursor fx:constant="CROSSHAIR" />
+                     </cursor>
+                  </GridPane>
+               </children>
+            </StackPane>
+            <Label fx:id="aboutLabel" alignment="CENTER" contentDisplay="CENTER" maxHeight="-Infinity" maxWidth="1.7976931348623157E308" minHeight="-Infinity" prefHeight="10.0" text="github.com/HomeletW">
+               <font>
+                  <Font size="8.0" />
+               </font>
+            </Label>
+         </children>
+         <padding>
+            <Insets left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </VBox>
+   </children>
+</VBox>

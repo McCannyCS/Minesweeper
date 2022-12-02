@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration status="info" name="homelet">
+    <Appenders>
+        <Console name="stdout" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %p %m%n"/>
+        </Console>
+        <File name="logfile" fileName="logs/minesweeper.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %p %m%n"/>
+        </File>
+        <Async name="async">
+            <AppenderRef ref="logfile"/>
+        </Async>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="stdout" level="info"/>
+            <AppenderRef ref="async" level="debug"/>
+        </Root>
+    </Loggers>
+</Configuration>

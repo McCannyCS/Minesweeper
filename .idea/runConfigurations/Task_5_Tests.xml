@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task 5 Tests" type="JUnit" factoryName="JUnit">
+    <module name="Minesweeper" />
+    <option name="PACKAGE_NAME" value="homelet.mccanny.minesweeper.testing.Task5" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <tag value="task1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
