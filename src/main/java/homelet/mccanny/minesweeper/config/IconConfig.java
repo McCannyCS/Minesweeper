@@ -12,20 +12,20 @@ import java.io.IOException;
 
 @Configuration
 public class IconConfig {
-	
-	private static final Logger logger = LogManager.getLogger();
-	
-	@Value("${icon.game}")
-	private Resource gameIcon;
-	
-	@Bean
-	public Image gameIcon() {
-		try {
-			return new Image(gameIcon.getInputStream());
-		} catch (IOException e) {
-			logger.error(e);
-			logger.info("Failed to load game icon");
-			return null;
-		}
-	}
+
+    private static final Logger logger = LogManager.getLogger();
+
+    @Value("${icon.game}")
+    private Resource gameIcon;
+
+    @Bean
+    public Image gameIcon() {
+        try {
+            return new Image(gameIcon.getInputStream());
+        } catch (IOException e) {
+            logger.error(e);
+            logger.info("Failed to load game icon");
+            return null;
+        }
+    }
 }

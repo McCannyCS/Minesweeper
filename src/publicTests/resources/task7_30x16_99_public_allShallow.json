@@ -1,0 +1,6051 @@
+{
+  "revealRowIndex36": 14,
+  "revealRowIndex37": 6,
+  "revealRowIndex38": 7,
+  "revealRowIndex39": 10,
+  "revealRowIndex30": 11,
+  "revealRowIndex31": 13,
+  "revealRowIndex32": 6,
+  "revealRowIndex33": 6,
+  "revealRowIndex34": 9,
+  "revealRowIndex35": 7,
+  "revealRowIndex25": 3,
+  "revealRowIndex26": 11,
+  "revealRowIndex27": 11,
+  "revealRowIndex28": 1,
+  "revealRowIndex29": 12,
+  "revealRowIndex20": 14,
+  "revealRowIndex21": 7,
+  "revealRowIndex22": 14,
+  "revealRowIndex23": 8,
+  "revealRowIndex24": 6,
+  "revealColIndex9": 14,
+  "revealColIndex8": 19,
+  "revealColIndex7": 0,
+  "revealColIndex6": 17,
+  "revealColIndex5": 12,
+  "revealColIndex4": 0,
+  "revealColIndex3": 21,
+  "revealColIndex2": 15,
+  "revealColIndex1": 17,
+  "revealColIndex0": 21,
+  "revealRowIndex58": -1,
+  "revealRowIndex59": -1,
+  "seed": 8784,
+  "revealRowIndex50": -1,
+  "revealRowIndex51": -1,
+  "revealRowIndex52": -1,
+  "revealRowIndex53": -1,
+  "revealRowIndex54": -1,
+  "revealRowIndex55": -1,
+  "revealRowIndex56": -1,
+  "revealRowIndex57": -1,
+  "revealColIndex11": 15,
+  "revealColIndex10": 13,
+  "revealRowIndex60": -1,
+  "revealRowIndex47": 12,
+  "revealRowIndex48": 0,
+  "revealRowIndex49": 9,
+  "revealRowIndex40": 2,
+  "revealRowIndex41": 12,
+  "revealRowIndex42": 11,
+  "revealRowIndex43": 6,
+  "revealRowIndex44": 14,
+  "revealRowIndex45": 12,
+  "revealRowIndex46": 7,
+  "revealColIndex28": 9,
+  "revealRowIndex72": -1,
+  "revealColIndex27": 24,
+  "revealRowIndex73": -1,
+  "revealRowIndex74": -1,
+  "revealColIndex29": 16,
+  "revealRowIndex75": -1,
+  "revealColIndex24": 24,
+  "revealRowIndex76": -1,
+  "revealColIndex23": 16,
+  "revealRowIndex77": -1,
+  "revealColIndex26": 19,
+  "revealRowIndex78": -1,
+  "revealColIndex25": 13,
+  "revealRowIndex79": -1,
+  "revealColIndex31": 7,
+  "revealColIndex30": 26,
+  "revealColIndex33": 5,
+  "revealColIndex32": 27,
+  "revealRowIndex80": -1,
+  "revealRowIndex81": -1,
+  "revealRowIndex82": -1,
+  "revealRowIndex69": -1,
+  "revealColIndex17": 7,
+  "revealRowIndex61": -1,
+  "revealColIndex16": 17,
+  "revealRowIndex62": -1,
+  "revealColIndex19": 15,
+  "revealRowIndex63": -1,
+  "revealColIndex18": 28,
+  "revealRowIndex64": -1,
+  "revealColIndex13": 7,
+  "revealRowIndex65": -1,
+  "revealColIndex12": 25,
+  "revealRowIndex66": -1,
+  "revealColIndex15": 19,
+  "revealRowIndex67": -1,
+  "revealColIndex14": 12,
+  "revealRowIndex68": -1,
+  "revealColIndex20": 29,
+  "revealColIndex22": 29,
+  "revealColIndex21": 2,
+  "revealRowIndex70": -1,
+  "revealRowIndex71": -1,
+  "revealRowIndex94": -1,
+  "revealColIndex49": 7,
+  "revealRowIndex95": -1,
+  "revealRowIndex96": -1,
+  "revealRowIndex97": -1,
+  "revealColIndex46": 1,
+  "revealRowIndex98": -1,
+  "revealColIndex45": 17,
+  "revealRowIndex99": -1,
+  "revealColIndex48": 0,
+  "revealColIndex47": 28,
+  "revealColIndex53": -1,
+  "revealColIndex52": -1,
+  "revealColIndex55": -1,
+  "revealColIndex54": -1,
+  "revealColIndex51": -1,
+  "revealColIndex50": -1,
+  "revealColIndex39": 17,
+  "revealRowIndex83": -1,
+  "revealColIndex38": 6,
+  "revealRowIndex84": -1,
+  "revealRowIndex85": -1,
+  "revealRowIndex86": -1,
+  "revealColIndex35": 18,
+  "revealRowIndex87": -1,
+  "revealColIndex34": 9,
+  "revealRowIndex88": -1,
+  "revealColIndex37": 5,
+  "revealRowIndex89": -1,
+  "gameAfterReveal": {
+    "timeElapsed": 0,
+    "level": {
+      "numMine": 99,
+      "boardWidth": 30,
+      "boardHeight": 16
+    },
+    "pausing": false,
+    "board": [
+      [
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 6
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": true,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        }
+      ]
+    ],
+    "surrender": false
+  },
+  "revealColIndex36": 5,
+  "revealColIndex42": 17,
+  "revealColIndex41": 7,
+  "revealColIndex44": 11,
+  "revealColIndex43": 28,
+  "revealRowIndex90": -1,
+  "revealRowIndex91": -1,
+  "revealColIndex40": 20,
+  "revealRowIndex92": -1,
+  "revealRowIndex93": -1,
+  "revealColIndex68": -1,
+  "revealColIndex67": -1,
+  "revealColIndex69": -1,
+  "revealColIndex75": -1,
+  "revealColIndex74": -1,
+  "revealColIndex77": -1,
+  "revealColIndex76": -1,
+  "revealColIndex71": -1,
+  "revealColIndex70": -1,
+  "revealColIndex73": -1,
+  "revealColIndex72": -1,
+  "revealColIndex57": -1,
+  "revealColIndex56": -1,
+  "revealColIndex59": -1,
+  "revealColIndex58": -1,
+  "revealColIndex64": -1,
+  "revealColIndex63": -1,
+  "revealColIndex66": -1,
+  "revealColIndex65": -1,
+  "revealColIndex60": -1,
+  "revealColIndex62": -1,
+  "revealColIndex61": -1,
+  "revealColIndex89": -1,
+  "revealColIndex97": -1,
+  "revealColIndex96": -1,
+  "revealColIndex99": -1,
+  "revealColIndex98": -1,
+  "revealColIndex93": -1,
+  "revealColIndex92": -1,
+  "revealColIndex95": -1,
+  "revealColIndex94": -1,
+  "revealColIndex91": -1,
+  "revealColIndex90": -1,
+  "revealRowIndex9": 5,
+  "revealRowIndex7": 15,
+  "revealRowIndex8": 14,
+  "revealRowIndex5": 10,
+  "revealRowIndex6": 2,
+  "revealColIndex79": -1,
+  "revealColIndex78": -1,
+  "revealColIndex86": -1,
+  "revealColIndex85": -1,
+  "revealColIndex88": -1,
+  "revealColIndex87": -1,
+  "revealColIndex82": -1,
+  "revealColIndex81": -1,
+  "revealColIndex84": -1,
+  "revealColIndex83": -1,
+  "revealRowIndex3": 7,
+  "revealRowIndex4": 13,
+  "revealRowIndex1": 3,
+  "revealColIndex80": -1,
+  "revealRowIndex2": 13,
+  "revealRowIndex0": 2,
+  "gameBeforeReveal": {
+    "timeElapsed": 0,
+    "level": {
+      "numMine": 99,
+      "boardWidth": 30,
+      "boardHeight": 16
+    },
+    "pausing": false,
+    "board": [
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 5
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 6
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 4
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 0
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 0
+        }
+      ]
+    ],
+    "surrender": false
+  },
+  "revealRowIndex14": 2,
+  "revealRowIndex15": 2,
+  "revealRowIndex16": 0,
+  "revealRowIndex17": 0,
+  "revealRowIndex18": 13,
+  "revealRowIndex19": 10,
+  "revealRowIndex10": 6,
+  "revealRowIndex11": 1,
+  "revealRowIndex12": 7,
+  "revealRowIndex13": 13
+}

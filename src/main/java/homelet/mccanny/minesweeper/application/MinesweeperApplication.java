@@ -14,22 +14,22 @@ import java.io.IOException;
 import java.net.URL;
 
 public class MinesweeperApplication extends Application {
-	
-	@Override
-	public void start(Stage stage) throws IOException {
-		ApplicationContext context = new ClassPathXmlApplicationContext("bean.xml");
-		URL mainView = (URL) context.getBean("mainView");
-		Image gameIcon = (Image) context.getBean("gameIcon");
-		FXMLLoader fxmlLoader = new FXMLLoader(mainView);
-		fxmlLoader.setControllerFactory(context::getBean);
-		Scene scene = new Scene(fxmlLoader.load());
-		MinesweeperController controller = fxmlLoader.getController();
-		stage.setOnCloseRequest(controller::onGameClose);
-		stage.getIcons().add(gameIcon);
-		stage.setResizable(false);
-		stage.setTitle("Minesweeper");
-		stage.setScene(scene);
-		Platform.runLater(controller::initGame);
-		stage.show();
-	}
+
+    @Override
+    public void start(Stage stage) throws IOException {
+        ApplicationContext context = new ClassPathXmlApplicationContext("bean.xml");
+        URL mainView = (URL) context.getBean("mainView");
+        Image gameIcon = (Image) context.getBean("gameIcon");
+        FXMLLoader fxmlLoader = new FXMLLoader(mainView);
+        fxmlLoader.setControllerFactory(context::getBean);
+        Scene scene = new Scene(fxmlLoader.load());
+        MinesweeperController controller = fxmlLoader.getController();
+        stage.setOnCloseRequest(controller::onGameClose);
+        stage.getIcons().add(gameIcon);
+        stage.setResizable(false);
+        stage.setTitle("Minesweeper");
+        stage.setScene(scene);
+        Platform.runLater(controller::initGame);
+        stage.show();
+    }
 }

@@ -1,0 +1,76 @@
+{
+  "game": {
+    "timeElapsed": 0,
+    "level": {
+      "numMine": 3,
+      "boardWidth": 3,
+      "boardHeight": 3
+    },
+    "pausing": false,
+    "board": [
+      [
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 1
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ],
+      [
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 3
+        },
+        {
+          "flagged": false,
+          "revealed": false,
+          "isMine": true,
+          "minesAround": 2
+        },
+        {
+          "flagged": true,
+          "revealed": false,
+          "isMine": false,
+          "minesAround": 2
+        }
+      ]
+    ],
+    "surrender": false
+  },
+  "expectedRemainingMine": 0,
+  "seed": 1024
+}

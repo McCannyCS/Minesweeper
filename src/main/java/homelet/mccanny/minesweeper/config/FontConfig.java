@@ -12,20 +12,20 @@ import java.io.IOException;
 
 @Configuration
 public class FontConfig {
-	
-	private static final Logger logger = LogManager.getLogger();
-	
-	@Value("${font.led}")
-	private ClassPathResource ledFontFile;
-	
-	@Bean
-	public Font ledFont() {
-		try {
-			return Font.loadFont(ledFontFile.getInputStream(), 40);
-		} catch (IOException e) {
-			logger.error(e);
-			logger.info("Failed to load led font, using default ...");
-			return null;
-		}
-	}
+
+    private static final Logger logger = LogManager.getLogger();
+
+    @Value("${font.led}")
+    private ClassPathResource ledFontFile;
+
+    @Bean
+    public Font ledFont() {
+        try {
+            return Font.loadFont(ledFontFile.getInputStream(), 40);
+        } catch (IOException e) {
+            logger.error(e);
+            logger.info("Failed to load led font, using default ...");
+            return null;
+        }
+    }
 }
